@@ -41,7 +41,7 @@ Analysis of UK-based online retail transactions to identify top-selling products
 
 ## 📂 Project Files
 - `ecommerce-analysis-cleaned.xlsx` - Cleaned dataset with analysis
-- `data-raw.csv` - Original Kaggle dataset (first 50,000 rows)
+- Original dataset available on [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ## 🔍 Analysis Methodology
 1. Data import from CSV
