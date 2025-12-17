@@ -17,15 +17,27 @@ Analysis of UK-based online retail transactions to identify top-selling products
 ## 📁 Dataset
 - **Source:** [E-Commerce Data - Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - **Original Size:** 541,909 transactions
+- **Working Sample:** 50,000 transactions (for performance)
 - **After Cleaning:** 31,235 valid transactions
 - **Time Period:** 2010-2011
 - **Country:** United Kingdom
 
 ## 🧹 Data Cleaning Process
-1. **Removed missing Customer IDs:** 135,082 rows (guest purchases)
-2. **Removed negative quantities:** 880 rows (returns/cancellations)
-3. **Removed zero prices:** 5 rows (data errors)
-4. **Final Dataset:** 31,235 clean transactions
+
+### Step 1: Data Sampling
+- Reduced dataset from 541,909 to 50,000 rows for efficient processing in Google Sheets
+
+### Step 2: Remove Missing Customer IDs
+- Removed 17,880 rows (guest purchases without customer information)
+- Remaining: 32,120 transactions
+
+### Step 3: Remove Returns/Cancellations
+- Removed 880 rows with negative quantities (product returns)
+- Remaining: 31,240 transactions
+
+### Step 4: Remove Invalid Prices
+- Removed 5 rows with zero or negative prices (data errors)
+- **Final Dataset: 31,235 clean transactions**
 
 ## 📈 Key Findings
 
