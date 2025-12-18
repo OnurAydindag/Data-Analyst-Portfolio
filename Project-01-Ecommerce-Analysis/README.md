@@ -67,8 +67,8 @@ Analysis of UK-based online retail transactions to identify top-selling products
 - Data cleaning and validation
 - Data transformation
 - Descriptive statistics
-- Business insights extraction
-- Documentation
+- Data-driven insights extraction
+- Technical documentation
 
 ## 🚀 Future Improvements
 - Time series analysis of sales trends
