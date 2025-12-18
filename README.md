@@ -1,9 +1,9 @@
-# 📊 Business Analyst Portfolio
+# 📊 Data Analyst Portfolio
 
-Hi! I'm Onur Aydındağ, an aspiring Business Analyst building skills in data analysis, visualization, and business intelligence.
+Hi! I'm Onur Aydındağ, an aspiring Data Analyst building skills in data analysis, visualization, and business intelligence.
 
 ## 🎯 About Me
-I'm on a journey to become a skilled Business Analyst, focusing on:
+I'm on a journey to become a skilled Data Analyst, focusing on:
 - Data cleaning and preparation
 - SQL for data querying
 - Python for data analysis
@@ -26,7 +26,7 @@ I'm on a journey to become a skilled Business Analyst, focusing on:
 ## 📁 Projects
 
 ### [Project 1: E-commerce Sales Analysis](./Project-01-Ecommerce-Analysis/)
-**Skills:** Data Cleaning, Pivot Tables, Business Analysis  
+**Skills:** Data Cleaning, Pivot Tables, Data Analysis  
 **Tools:** Google Sheets  
 **Description:** Analyzed 31K+ transactions from UK online retail to identify top products and sales patterns. Cleaned raw data by handling missing values and outliers, then created insights using Pivot Tables.
 
@@ -80,7 +80,7 @@ I'm on a journey to become a skilled Business Analyst, focusing on:
 - **Email:** onuraydindag@gmail.com
 
 ## 🚀 Current Focus
-Learning SQL to query databases and perform complex data analysis. Next project will involve creating a database and writing queries for customer behavior analysis.
+Learning SQL to query databases and extract insights from data. Next project will involve database creation and advanced SQL queries for customer analytics.
 
 ---
 
