@@ -86,4 +86,4 @@ Learning SQL to query databases and extract insights from data. Next project wil
 
 **Last Updated:** 17.12.2025
 
-*This portfolio is continuously evolving as I learn and grow in my Business Analyst journey!*
+*This portfolio is continuously evolving as I learn and grow in my Data Analyst journey!*
