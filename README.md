@@ -96,10 +96,9 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - **Email:** onuraydindag@gmail.com
 
 ## 🚀 Current Focus
-Learning SQL to query databases and extract insights from data. Next project will involve database creation and advanced SQL queries for customer analytics.
-
+Learning Python for data analysis and manipulation. Next project will involve using Pandas, NumPy, and data visualization libraries for exploratory data analysis.
 ---
 
-**Last Updated:** 17.12.2025
+**Last Updated:** 19.12.2025
 
 *This portfolio is continuously evolving as I learn and grow in my Data Analyst journey!*
