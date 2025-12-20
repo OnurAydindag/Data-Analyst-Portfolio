@@ -6,7 +6,7 @@ Hi! I'm Onur Aydındağ, an aspiring Data Analyst building skills in data analys
 I'm on a journey to become a skilled Data Analyst, focusing on:
 - Data cleaning and preparation
 - SQL for data querying and analysis
-- Python for data manipulation
+- Python for data manipulation and visualization
 - Data visualization (Power BI, Tableau)
 - Business insights and storytelling
 
@@ -15,16 +15,18 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 ### Currently Proficient:
 - **Spreadsheets:** Google Sheets, Excel (Data cleaning, Pivot Tables, Formulas)
 - **SQL:** PostgreSQL (Database design, Complex queries, Aggregations)
-- **Tools:** pgAdmin, DBeaver, GitHub
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** pgAdmin, DBeaver, GitHub, Google Colab
 
 ### Currently Learning:
-- **Python:** Pandas, NumPy, Matplotlib
 - **Visualization:** Power BI, Tableau
+- **Advanced Python:** Statistical modeling, Machine Learning basics
 
 ### Tools & Platforms:
 - GitHub for version control
 - Kaggle for datasets
 - PostgreSQL for database management
+- Google Colab for Python development
 - Google Sheets for analysis
 
 ## 📁 Projects
@@ -60,8 +62,23 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 
 ---
 
+### [Project 3: HR Analytics with Python](./Project-03-Python-HR-Analytics/)
+**Skills:** Python, Pandas, NumPy, Data Visualization, Statistical Analysis  
+**Tools:** Google Colab, Matplotlib, Seaborn  
+**Description:** Analyzed 1,470 employee records using Python to identify attrition drivers. Performed exploratory data analysis, statistical computations, and created visualizations to extract HR insights.
+
+**Key Results:**
+- Identified 16.12% attrition rate (237 employees)
+- Discovered $2,046 salary gap between leavers and stayers
+- Found younger employees (avg 33.6 years) more likely to leave
+- Sales department showed highest attrition
+- Correlation analysis revealed salary and age as top predictors
+
+[📂 View Project](./Project-03-Python-HR-Analytics/)
+
+---
+
 ### Coming Soon:
-- **Project 3:** Python Data Analysis (HR Analytics)
 - **Project 4:** Power BI Dashboard (Finance Dashboard)
 - **Project 5:** Tableau Visualization (Marketing Campaign Analysis)
 
@@ -80,13 +97,14 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - [x] Business insights extraction from data
 - [x] Data import and management
 
-**Phase 3: Python** 🔄 IN PROGRESS
-- [ ] Pandas for data manipulation
-- [ ] NumPy for numerical analysis
-- [ ] Data visualization with Matplotlib/Seaborn
-- [ ] Statistical analysis
+**Phase 3: Python** ✅ COMPLETED
+- [x] Pandas for data manipulation
+- [x] NumPy for numerical analysis
+- [x] Data visualization with Matplotlib/Seaborn
+- [x] Statistical analysis and correlations
+- [x] Exploratory Data Analysis (EDA)
 
-**Phase 4: BI Tools** 📅 PLANNED
+**Phase 4: BI Tools** 🔄 IN PROGRESS
 - [ ] Power BI dashboards
 - [ ] Tableau storytelling
 - [ ] Advanced visualizations
@@ -95,8 +113,9 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 ## 🌟 Featured Skills
 - **Data Cleaning:** Handling missing values, outliers, duplicates
 - **SQL:** Complex queries, database design, data aggregation
+- **Python:** Pandas, NumPy, data visualization, statistical analysis
 - **Analysis:** Descriptive statistics, trend identification, business insights
-- **Tools:** PostgreSQL, Excel, Pivot Tables, data validation
+- **Tools:** PostgreSQL, Python, Excel, Pivot Tables, Google Colab
 - **Business Intelligence:** Translating data into actionable recommendations
 
 ## 📫 Connect With Me
@@ -105,10 +124,10 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - **Email:** onuraydindag@gmail.com
 
 ## 🚀 Current Focus
-Learning Python for data analysis and manipulation. Next project will involve using Pandas, NumPy, and data visualization libraries for exploratory data analysis and statistical insights.
+Learning Power BI and Tableau for interactive dashboards and business intelligence. Next project will involve creating visual analytics dashboards with real-time data insights.
 
 ---
 
-**Last Updated:** 19.12.2025
+**Last Updated:** 20.12.2025
 
 *This portfolio is continuously evolving as I learn and grow in my Data Analyst journey!*
