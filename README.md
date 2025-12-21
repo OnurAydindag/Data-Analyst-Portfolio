@@ -16,17 +16,19 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - **Spreadsheets:** Google Sheets, Excel (Data cleaning, Pivot Tables, Formulas)
 - **SQL:** PostgreSQL (Database design, Complex queries, Aggregations)
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** pgAdmin, DBeaver, GitHub, Google Colab
+- **Power BI:** Interactive dashboards, DAX, Data visualization
+- **Tools:** pgAdmin, DBeaver, GitHub, Google Colab, Power BI Desktop
 
 ### Currently Learning:
-- **Visualization:** Power BI, Tableau
-- **Advanced Python:** Statistical modeling, Machine Learning basics
+- **Tableau:** Advanced storytelling and visualizations
+- **Advanced Analytics:** Statistical modeling, predictive analysis
 
 ### Tools & Platforms:
 - GitHub for version control
 - Kaggle for datasets
 - PostgreSQL for database management
 - Google Colab for Python development
+- Power BI Desktop for business intelligence
 - Google Sheets for analysis
 
 ## 📁 Projects
@@ -78,8 +80,24 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 
 ---
 
+### [Project 4: Adidas Sales Dashboard (Power BI)](./Project-04-PowerBI-Sales-Dashboard/)
+**Skills:** Power BI, DAX, Data Visualization, Business Intelligence  
+**Tools:** Power BI Desktop, Power Query  
+**Description:** Built interactive sales dashboard analyzing $899.9M in Adidas US sales. Created KPIs, time series analysis, geographic distributions, and product performance metrics with dynamic filtering capabilities.
+
+**Key Results:**
+- Developed 4 interactive visualizations with 3 KPI cards
+- Analyzed 9,648 sales transactions across 2020-2021
+- Identified Men's Street Footwear as top product category
+- New York leads state-level sales performance
+- In-store channel dominates with highest sales volume
+- Implemented date, region, and city filters for deep-dive analysis
+
+[📂 View Project](./Project-04-PowerBI-Sales-Dashboard/)
+
+---
+
 ### Coming Soon:
-- **Project 4:** Power BI Dashboard (Finance Dashboard)
 - **Project 5:** Tableau Visualization (Marketing Campaign Analysis)
 
 ## 📚 Learning Path
@@ -104,18 +122,24 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - [x] Statistical analysis and correlations
 - [x] Exploratory Data Analysis (EDA)
 
-**Phase 4: BI Tools** 🔄 IN PROGRESS
-- [ ] Power BI dashboards
+**Phase 4: BI Tools** ✅ COMPLETED
+- [x] Power BI dashboards
+- [x] Interactive visualizations
+- [x] DAX calculations
+- [x] Business intelligence reporting
+
+**Phase 5: Advanced** 🔄 IN PROGRESS
 - [ ] Tableau storytelling
-- [ ] Advanced visualizations
-- [ ] Interactive reports
+- [ ] Advanced analytics
+- [ ] Portfolio optimization
 
 ## 🌟 Featured Skills
 - **Data Cleaning:** Handling missing values, outliers, duplicates
 - **SQL:** Complex queries, database design, data aggregation
 - **Python:** Pandas, NumPy, data visualization, statistical analysis
+- **Power BI:** Interactive dashboards, KPIs, DAX, business intelligence
 - **Analysis:** Descriptive statistics, trend identification, business insights
-- **Tools:** PostgreSQL, Python, Excel, Pivot Tables, Google Colab
+- **Tools:** PostgreSQL, Python, Power BI, Excel, Pivot Tables, Google Colab
 - **Business Intelligence:** Translating data into actionable recommendations
 
 ## 📫 Connect With Me
@@ -124,10 +148,10 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - **Email:** onuraydindag@gmail.com
 
 ## 🚀 Current Focus
-Learning Power BI and Tableau for interactive dashboards and business intelligence. Next project will involve creating visual analytics dashboards with real-time data insights.
+Expanding visualization skills with Tableau for advanced storytelling and interactive data narratives. Continuously building portfolio with real-world data analysis projects.
 
 ---
 
-**Last Updated:** 20.12.2025
+**Last Updated:** 21.12.2025
 
 *This portfolio is continuously evolving as I learn and grow in my Data Analyst journey!*
