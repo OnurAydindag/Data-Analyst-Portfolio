@@ -84,14 +84,3 @@ Interactive marketing analytics dashboard analyzing 2,240 customer records to id
 **Completed:** 22.12.2025  
 **Tool:** Tableau Public  
 **Dashboard:** [View Live Version](https://public.tableau.com/app/profile/onur.ayd.nda./viz/Marketing_Campaign_Analysis_17664064247640/MarketingCampaignPerformanceDashboard)
-```
-
----
-
-## PROJE 5 KLASÖRÜNE EKLENECEK DOSYALAR:
-```
-Project-05-Tableau-Marketing-Campaign/
-├── README.md                              ← Yukarıdaki içerik
-├── dashboard_screenshot.png               ← Dashboard görüntüsü
-├── Marketing_Campaign_Analysis.twbx       ← Tableau workbook (varsa)
-└── marketing_campaign.csv                 ← Dataset (varsa)
