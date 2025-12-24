@@ -113,16 +113,6 @@ This portfolio demonstrates my technical abilities and problem-solving approach 
 
 ---
 
-## 🌟 Key Competencies
-- **Data Cleaning:** Handling missing values, outliers, duplicates
-- **SQL:** Complex queries, database design, data aggregation
-- **Python:** Pandas, NumPy, data visualization, statistical analysis
-- **Power BI:** Interactive dashboards, KPIs, DAX, business intelligence
-- **Tableau:** Interactive dashboards, calculated fields, customer segmentation, heatmaps
-- **Analysis:** Descriptive statistics, trend identification, business insights
-- **Tools:** PostgreSQL, Python, Power BI, Tableau Public, Excel, Google Sheets
-- **Business Intelligence:** Translating data into actionable recommendations
-
 ## 📫 Connect With Me
 - **GitHub:** [github.com/OnurAydindag](https://github.com/OnurAydindag)
 - **LinkedIn:** [linkedin.com/in/onur-aydındağ](https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/)
