@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
-Hi! I'm Onur Aydındağ, a Data Analyst with a technical background, focused on data analysis, visualization, and business intelligence.
+Hi! I'm Onur Aydındağ. I'm a Data Analyst who turns data into meaningful insights and builds projects in data analysis, visualization, and business intelligence.
 
 ## 🎯 About Me
 I'm developing my data analysis capabilities through self-directed learning and practical projects, with skills in:
